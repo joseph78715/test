@@ -1,2 +1,4 @@
 //test.c
-//here is master devel
+<<<<<<< HEAD
+"here is master devel"
+
